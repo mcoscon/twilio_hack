@@ -1,4 +1,4 @@
-# TensorFlow Lite Python object detection example with Pi Camera
+# Intruder Twilert
 
 This example uses [TensorFlow Lite](https://tensorflow.org/lite) with Python
 on a Raspberry Pi to perform real-time object detection using images
