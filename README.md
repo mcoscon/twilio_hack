@@ -1,8 +1,7 @@
 ## Owlish
 
 ### Demo
-* Click the image below to view the demo on Youtube
-[![Watch the video](https://scontent.fbki2-1.fna.fbcdn.net/v/t1.15752-9/95568337_1142028552813612_8274245158485098496_n.jpg?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=_br9W-wYAlMAX-HR1KW&_nc_ht=scontent.fbki2-1.fna&oh=55880f16e666bf15c0f3e4933aae0f54&oe=5ED0FAE0)](https://youtu.be/idDMZyX_ofI)
+* [View the demo here](https://youtu.be/idDMZyX_ofI) 
 
 <br />
 
