@@ -18,18 +18,19 @@ Owlish - a camera based application that has its eyes set on efficient monitorin
 
 <br />
 
-### Quick Start without bluetooth activation from RSL-10 Sense Kit
-* Install all dependencies in dependencies.txt in your PI.
+### Quick Start without BLE from RSL-10 Sense Kit
+* Install all dependencies with `pip3`in dependencies.txt in your PI.
 * Replace credentials for Cloudinary and Twilio Whatsapp API (in upload_cloudinary.py & send_twilio.py) with your own.
 * Clone and install the Tensorflow lite object detection model example by following the README.md in their official [repository](https://github.com/tensorflow/examples/blob/master/lite/examples/object_detection/raspberry_pi/README.md)
 * Once cloned and installed,`cd` to examples/lite/examples/object_detection/raspberry_pi/ and insert the following files from this repository (send_twilio.py, upload_cloudinary.py & detect_picamera.py). 
-* Run detect_picamera.py with `python3 detect_picamera.py` 
+* In owlish_run.py replace activate_status variable to `True` to disable activation from the BLE device.
+* Run the application with `python3 detect_picamera.py` 
 <br />
 
-### Raspberry PI Quick Start 
-* Python 3.6 or greater should be installed in your system.
-* Pyrebase should be installed in your system.
-* Start the raspberrySend.py script by `python -m raspberrySend`
+### Quick Start using BLE from RSL-10 Sense Kit
+* The only difference is to use `sudo pip3` for installing every dependency (including the tensorflow lite) as we'll need to expose modules to the root user. This is because running the `detect_picamera.py` requires root permissions for using the Bluetooth Peripheral on the PI.
+* Follow the rest of the steps in `Quick Start without BLE from RSL-10 Sense Kit` without modifying the activate_status.
+* Run the application with `sudo python3 detect_picamera.py` 
 
 <br />
 
