@@ -38,7 +38,6 @@
 * [TensorFlow lite](https://github.com/tensorflow/examples/blob/master/lite/examples/object_detection/raspberry_pi/README.md) 
 * [Bluepy](https://ianharvey.github.io/bluepy-doc/)
 * [Cloudinary](https://cloudinary.com/) 
-<br />
 
 ### Misc
 If you'd like to learn more, I did a write up over at [dev.to](https://dev.to/mcoscon/placeholder-title-1a0f-temp-slug-5865389?preview=2d4da0309e604de71fe680c5632802c9dd1915a9a0d907b95dbf93e29b671441fb431eb3d35d5e5b466b6275f68274bb01cedaa2480e27e5562bd9ad)
