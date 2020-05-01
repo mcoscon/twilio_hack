@@ -36,25 +36,19 @@ Owlish - a camera based application that has its eyes set on efficient monitorin
 
 ### Screenshot
 * Once you have the application up and running, you should receive something similar!
-
-![screenshot](images/detected_intruder.png?raw=true "Title")
+<p align="center">
+  ![screenshot](images/detected_intruder.png?raw=true "Title")
+</p>
 
 ### Built using
-- [Reactjs](https://reactjs.org/)
-- [Material UI](https://material-ui.com/)
-- [Firebase](https://firebase.google.com/)
-- [Raspberry PI 3B+](https://www.raspberrypi.org/)
-- [Intel Neural Compute Stick](https://software.intel.com/en-us/articles/intel-movidius-neural-compute-stick)
-- [Nodejs](https://nodejs.org/en/)
-- [Pyrebase](https://github.com/thisbejim/Pyrebase)
+#### Hardware components
+* [Raspberry Pi 3B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
+* [A Pi Camera Module V2](https://www.raspberrypi.org/products/camera-module-v2/)
+* [RSL10-SENSE-GEVK dev kit](https://www.onsemi.com/support/evaluation-board/rsl10-sense-gevk) 
 
+#### Software components
+* [Twilio WhatsApp](https://www.twilio.com/docs/whatsapp/tutorial/send-and-receive-media-messages-whatsapp-python) 
+* [TensorFlow lite](https://github.com/tensorflow/examples/blob/master/lite/examples/object_detection/raspberry_pi/README.md) 
+* [Bluepy](https://ianharvey.github.io/bluepy-doc/)
+* [Cloudinary](https://cloudinary.com/) 
 <br />
-
-### Languages
-- Python
-- Javascript
-
-<br />
-
-### To-dos
-- Twilio SMS integration
