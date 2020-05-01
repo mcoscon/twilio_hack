@@ -1,12 +1,9 @@
-<h1 align="center" style="border-bottom: none !important; margin-bottom: 5px !important;"><a href="https://designrevision.com/downloads/shards-dashboard-lite-react/">Intruder Twilert</a></h1>
+## Owlish
+
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" />
   </a>
-</p>
-
-<p align="center">
-Owlish - a camera based application that has its eyes set on efficient monitoring, detection and alerting of anyone that's not supposed to be in your dorm while you're away.
 </p>
 
 <p align="center">
