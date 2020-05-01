@@ -15,12 +15,6 @@ Owlish - a camera based application that has its eyes set on efficient monitorin
   </a>
 </p>
 
-<img src="images/oie_uuByobUjv4Dy.jpg">
-<br />
-
-
-![Output sample](https://github.com/mcoscon/integrated-design-project/blob/master/ProgressDemo.gif)
-
 
 <br />
 
