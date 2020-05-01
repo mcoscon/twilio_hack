@@ -4,7 +4,7 @@
 * [View the demo here](https://youtu.be/idDMZyX_ofI) 
 
 ### Quick Start without BLE from RSL-10 Sense Kit
-* Install all dependencies with `pip3`in dependencies.txt in your PI.
+* Make sure to install all dependencies with `pip3` as the tensorflow lite can only run on Python Version 3.5, 3.6 & 3.7 only.
 * Replace credentials for Cloudinary and Twilio Whatsapp API (in upload_cloudinary.py & send_twilio.py) with your own.
 * Clone and install the Tensorflow lite object detection model example by following the README.md in their official [repository](https://github.com/tensorflow/examples/blob/master/lite/examples/object_detection/raspberry_pi/README.md)
 * Once cloned and installed,`cd` to examples/lite/examples/object_detection/raspberry_pi/ and insert the following files from this repository (send_twilio.py, upload_cloudinary.py & detect_picamera.py). 
