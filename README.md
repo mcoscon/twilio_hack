@@ -3,8 +3,6 @@
 ### Demo
 * [View the demo here](https://youtu.be/idDMZyX_ofI) 
 
-<br />
-
 ### Quick Start without BLE from RSL-10 Sense Kit
 * Install all dependencies with `pip3`in dependencies.txt in your PI.
 * Replace credentials for Cloudinary and Twilio Whatsapp API (in upload_cloudinary.py & send_twilio.py) with your own.
