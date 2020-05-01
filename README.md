@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-This is the proposed project for EEET 4002 Integrated Design Project. The project is a smoker detection system that alerts authorities or premise owners when an offence has been made on a non-smoking zone. 
+Owlish - a camera based application that has its eyes set on efficient monitoring, detection and alerting of anyone that's not supposed to be in your dorm while you're away.
 </p>
 
 <p align="center">
