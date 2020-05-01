@@ -1,16 +1,7 @@
 ## Owlish
 
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://idp-app-70f95.firebaseapp.com">
-    <img height="55px" src="assets/btn-live-preview.png" />
-  </a>
-</p>
+### Demo
 
 
 <br />
