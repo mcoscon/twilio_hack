@@ -24,7 +24,7 @@ def rsl10_activate():
         devices = scanner.scan(3.0) #scan for 3 seconds and repeat
         for dev in devices:
             #print ("Device %s (%s), RSSI=%d dB" % (dev.addr, dev.addrType, dev.rssi))
-            if dev.addr == "60:c0:bf:28:65:c0":
+            if dev.addr == "60:c0:bf:28:65:c0": #replace with your own device's MAC
                print("RSL-10 device found")
                global activate_status
                activate_status = not activate_status
