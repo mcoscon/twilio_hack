@@ -34,7 +34,7 @@
 * [Cloudinary](https://cloudinary.com/) 
 
 ### Misc
-If you'd like to learn more, I did a technical write up over at [dev.to](https://dev.to/mcoscon/placeholder-title-1a0f-temp-slug-5865389?preview=2d4da0309e604de71fe680c5632802c9dd1915a9a0d907b95dbf93e29b671441fb431eb3d35d5e5b466b6275f68274bb01cedaa2480e27e5562bd9ad)
+If you'd like to learn more, I did a technical write up over at [dev.to](https://dev.to/mcoscon/twilio-hackathon-owlish-368)
 
 ### Future Improvements & Todo's
 * Using a personal smartphone to activate the system when you're away instead of using the RSL10-SENSE-GEVK dev. This would be a better option but requires an additional WiFi adapter dongle.
