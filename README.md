@@ -34,12 +34,11 @@ Owlish - a camera based application that has its eyes set on efficient monitorin
 
 <br />
 
-### Project Structure
+### Screenshot
+Once you have the application up and running, you should receive something similar!
+<img src="images/detected_intruder.png"/>
 
-- The project contains two parts, a machine learning model is run on edge and executes inferences on the captured frames from the camera. Once detected, relevant data (i.e time, date, location) is sent to the database where it can be displayed on a Dashboard. Moreover, an alert can be sent to an email once an offence has been detected.
 
-- The index.js file under the Functions folder contains the cloud function that sends an alert to the specified email recipient once a detection occurs.
-<br />
 
 ### Built using
 - [Reactjs](https://reactjs.org/)
