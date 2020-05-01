@@ -36,9 +36,7 @@ Owlish - a camera based application that has its eyes set on efficient monitorin
 
 ### Screenshot
 Once you have the application up and running, you should receive something similar!
-<img src="images/detected_intruder.png"/>
-
-
+![screenshot](images/detected_intruder.png?raw=true "Title")
 
 ### Built using
 - [Reactjs](https://reactjs.org/)
