@@ -18,12 +18,12 @@ Owlish - a camera based application that has its eyes set on efficient monitorin
 
 <br />
 
-### Dashboard Quick Start 
-* Nodejs, Firebase and Firebase Command Line Interface (CLI) should be first installed on your system.
-* Install dependencies by running `yarn` or `npm install` on the root folder.
-* Run `npm run start` to start the local development server.
-* Run `npm run build` to deploy all static files into the build folder and then run `firebase deploy` to deploy the dashboard to Firebase Hosting.
-
+### Quick Start without bluetooth activation from RSL-10 Sense Kit
+* Install all dependencies in dependencies.txt in your PI.
+* Replace credentials for Cloudinary and Twilio Whatsapp API (in upload_cloudinary.py & send_twilio.py) with your own.
+* Clone and install the Tensorflow lite object detection model example by following the README.md in their official [repository](https://github.com/tensorflow/examples/blob/master/lite/examples/object_detection/raspberry_pi/README.md)
+* Once cloned and installed,`cd` to examples/lite/examples/object_detection/raspberry_pi/ and insert the following files from this repository (send_twilio.py, upload_cloudinary.py & detect_picamera.py). 
+* Run detect_picamera.py with `python3 detect_picamera.py` 
 <br />
 
 ### Raspberry PI Quick Start 
